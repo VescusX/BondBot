@@ -1,0 +1,38 @@
+[
+    {
+        "model": "ustreasury.bondtype",
+        "pk": 1,
+        "fields": {
+            "ticker": "^IRX",
+            "maturity_length": "91 00:00:00",
+            "bc_cat": "BC_3MONTH"
+        }
+    },
+    {
+        "model": "ustreasury.bondtype",
+        "pk": 2,
+        "fields": {
+            "ticker": "^FVX",
+            "maturity_length": "1825 00:00:00",
+            "bc_cat": "BC_5YEAR"
+        }
+    },
+    {
+        "model": "ustreasury.bondtype",
+        "pk": 3,
+        "fields": {
+            "ticker": "^TNX",
+            "maturity_length": "3650 00:00:00",
+            "bc_cat": "BC_10YEAR"
+        }
+    },
+    {
+        "model": "ustreasury.bondtype",
+        "pk": 4,
+        "fields": {
+            "ticker": "^TYX",
+            "maturity_length": "10950 00:00:00",
+            "bc_cat": "BC_30YEAR"
+        }
+    }
+]
